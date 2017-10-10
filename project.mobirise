@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "landingpage_1",
+    "name": "Kutyarahangolunk",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -13,7 +13,7 @@
     "versionPublish": "4.2.2",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-107845296-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-107845296-1');\r\n</script>\r\n"
   },
   "pages": {
     "index.html": {
