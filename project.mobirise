@@ -90,7 +90,7 @@
             "overlayOpacity": 0.5
           },
           "title": "KUTYÁRA HANGOLUNK.",
-          "text": "Kölyök- és Felnőtt Kutya Tanfolyamok Gazdiknak a Kutyákról, Kutyáknak a Gazdikról.<br>100% erőszak és stresszmentes, csapatépítő, vidám hangulatú oktatás; a boldog, kiegyensúlyozott és harmonikus gazdi-kutya kapcsolatért.",
+          "text": "Kölyök- és Felnőtt Kutya Tanfolyamok Gazdiknak a Kutyákról, Kutyáknak a Gazdikról.<br>100% erőszak- és stresszmentes, csapatépítő, vidám hangulatú oktatás; a boldog, kiegyensúlyozott és harmonikus gazdi-kutya kapcsolatért.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#content4-2\" data-toolbar=\"-mbrBtnMove\">További info</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://vargrek.typeform.com/to/mGyIaP\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JELENTKEZEM</a>",
           "alias": "purity/components",
           "_tags": [
