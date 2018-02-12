@@ -9,11 +9,13 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.2.2",
-    "uniqCompNum": 16,
-    "versionPublish": "4.2.2",
+    "uniqCompNum": 17,
+    "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-107845296-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-107845296-1');\r\n</script>\r\n\r\n<!-- Facebook Pixel Code -->\r\n<script>\r\n  !function(f,b,e,v,n,t,s)\r\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\r\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\r\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\r\n  n.queue=[];t=b.createElement(e);t.async=!0;\r\n  t.src=v;s=b.getElementsByTagName(e)[0];\r\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\r\n  'https://connect.facebook.net/en_US/fbevents.js');\r\n  fbq('init', '127834734634458');\r\n  fbq('track', 'PageView');\r\n</script>\r\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\r\n  src=\"https://www.facebook.com/tr?id=127834734634458&ev=PageView&noscript=1\"\r\n/></noscript>\r\n<!-- End Facebook Pixel Code -->\r\nbq('track', 'ViewContent');\r\n\r\n"
+    "google-analytics": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-107845296-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-107845296-1');\r\n</script>\r\n\r\n<!-- Facebook Pixel Code -->\r\n<script>\r\n  !function(f,b,e,v,n,t,s)\r\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\r\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\r\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\r\n  n.queue=[];t=b.createElement(e);t.async=!0;\r\n  t.src=v;s=b.getElementsByTagName(e)[0];\r\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\r\n  'https://connect.facebook.net/en_US/fbevents.js');\r\n  fbq('init', '127834734634458');\r\n  fbq('track', 'PageView');\r\n</script>\r\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\r\n  src=\"https://www.facebook.com/tr?id=127834734634458&ev=PageView&noscript=1\"\r\n/></noscript>\r\n<!-- End Facebook Pixel Code -->\r\nbq('track', 'ViewContent');\r\n\r\n",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -372,9 +374,9 @@
             "overlayOpacity": 0.5
           },
           "title1": "<a href=\"http://www.facebook.com/pg/reka.varga.kutyaoktato/events/?ref=page_internal\" target=\"_blank\">KölyökKutya Tanfolyam</a>",
-          "caption1": "<b>45.000 </b>HUF<br>Budapest XIII. kerület, <b>10</b> alkalom, <b>60-90</b> perces foglalkozások, otthoni gyakorlófeladatok, szocializáció<br>",
+          "caption1": "<b>60.000 </b>HUF<br>Budapest XIII. kerület, <b>10</b> alkalom, <b>60-90</b> perces foglalkozások, otthoni gyakorlófeladatok, szocializáció<br>",
           "title2": "<a href=\"http://www.facebook.com/pg/reka.varga.kutyaoktato/events/?ref=page_internal\" target=\"_blank\">Felnőtt Kutya Tanfolyam</a>",
-          "caption2": "<b>42.000</b> HUF<br>Budapest XIII. kerület, <b>6</b> alkalom, <b>60-90</b> perces foglalkozások, otthoni gyakorlófeladatok, szocializáció<br>",
+          "caption2": "<b>50.000</b> HUF<br>Budapest XIII. kerület, <b>6</b> alkalom, <b>60-90</b> perces foglalkozások, otthoni gyakorlófeladatok, szocializáció<br>",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Websites",
@@ -469,6 +471,57 @@
               "color": "#ffffff"
             }
           }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Page 1",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"http://vargrek.typeform.com/to/mGyIaP\" target=\"_blank\">JELENTKEZEM</a></li>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#content5-4\">Tanfolyamról</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box2-9\">Időpontok</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#content4-b\">Árak</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/20160910-reka-024-szer2-kor-116x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"http://www.facebook.com/pg/reka.varga.kutyaoktato/about/?ref=page_internal\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">RekaVarga Biológus&amp;Kutyaoktató</a>",
+          "_name": "ext.menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "ext_menu-g"
         }
       ]
     }
