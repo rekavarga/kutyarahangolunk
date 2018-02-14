@@ -1,49 +1,31 @@
-#ext_menu-0 .navbar-toggler {
+#menu-0 .navbar-toggler {
   color: #000;
 }
-#header1-1 H1 {
-  color: #000000;
-  text-align: left;
+#menu-0 .nav-link {
+  font-size: 23px;
 }
-#content5-4 .mbr-section-title {
-  text-align: left;
-  color: #000000;
-}
-#content5-4 P {
-  text-align: left;
-}
-#content4-5 P {
-  text-align: center;
-}
-#testimonials1-8 .mbr-section-title {
+#header2-1 H1 {
   color: #ffffff;
 }
-#testimonials1-8 .card-footer > div {
-  color: #000000;
-}
-#msg-box2-9 H2 {
-  text-align: left;
-  font-size: 30px;
-}
-#content5-d .mbr-section-title {
-  text-align: center;
-  color: #000000;
-}
-#content4-b P {
-  text-align: center;
-}
-#content4-b B {
-  font-size: 20px;
-}
-#msg-box3-f .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-f .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#social-buttons2-e .mbr-section-title {
+#header2-1 P {
   color: #ffffff;
+  font-size: 22px;
 }
-#ext_menu-g .navbar-toggler {
+#content5-t P {
+  text-align: left;
+}
+#contacts3-b B {
+  font-size: 23px;
+}
+#content1-m P {
+  text-align: left;
+}
+#menu-k .navbar-toggler {
   color: #000;
+}
+#menu-k .nav-link {
+  font-size: 23px;
+}
+#contacts3-l B {
+  font-size: 23px;
 }
