@@ -1,5 +1,35 @@
+#content1-m P {
+  text-align: left;
+}
+#menu-k .navbar-toggler {
+  color: #ffffff;
+}
+#menu-k .nav-link {
+  font-size: 23px;
+}
+#contacts3-l B {
+  font-size: 23px;
+}
+#contacts3-l P {
+  font-size: 19px;
+}
+#content1-y P {
+  text-align: left;
+}
+#menu-z .navbar-toggler {
+  color: #ffffff;
+}
+#menu-z .nav-link {
+  font-size: 23px;
+}
+#contacts3-10 B {
+  font-size: 23px;
+}
+#contacts3-10 P {
+  font-size: 19px;
+}
 #menu-0 .navbar-toggler {
-  color: #000;
+  color: #ffffff;
 }
 #menu-0 .nav-link {
   font-size: 23px;
@@ -11,21 +41,37 @@
   color: #ffffff;
   font-size: 22px;
 }
+#msg-box4-5 .lead P {
+  text-align: left;
+}
+#msg-box3-11 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-11 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-11 .lead P {
+  color: #000000;
+  text-align: center;
+}
+#msg-box3-11 .mbr-section-title {
+  text-align: center;
+}
 #content5-t P {
+  text-align: left;
+}
+#content5-t .mbr-section-title {
+  text-align: left;
+}
+#msg-box1-17 H2 {
+  text-align: left;
+}
+#testimonials1-19 .card-block {
   text-align: left;
 }
 #contacts3-b B {
   font-size: 23px;
 }
-#content1-m P {
-  text-align: left;
-}
-#menu-k .navbar-toggler {
-  color: #000;
-}
-#menu-k .nav-link {
-  font-size: 23px;
-}
-#contacts3-l B {
-  font-size: 23px;
+#contacts3-b P {
+  font-size: 19px;
 }
