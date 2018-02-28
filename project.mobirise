@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kutyaterapeuta",
-    "currentPage": "kutyafizioterapia.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -351,7 +351,7 @@
           "_anchor": "content1-13"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header2-1\" data-toolbar=\"-mbrBtnMove\">VISSZA</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box3-11\" data-toolbar=\"-mbrBtnMove\">VISSZA</a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -420,7 +420,7 @@
         }
       ]
     },
-    "kutyafizioterapia.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Kutya fizioterápia",
