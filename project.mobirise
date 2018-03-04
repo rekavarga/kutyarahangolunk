@@ -14,7 +14,7 @@
       ]
     },
     "versionFirst": "4.5.4",
-    "uniqCompNum": 52,
+    "uniqCompNum": 56,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -726,7 +726,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-1939-2000x1333.jpg",
             "parallax": true,
@@ -741,7 +741,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "Amiben segíteni tudok",
-          "caption": "<p>⦁\tFájdalomcsillapítás (különböző eredetű sántaság esetén)\n</p><p>⦁\tTervezett műtét előtti felkészítés és műtét utáni rehabilitáció</p><p>⦁\tNeurológiai betegek utókezelése\n</p><p>⦁ Diszpláziára hajlamos kutyák tornáztatása (a tünetek megjelenésének késleltetése)</p><p><span style=\"font-size: 1.25rem;\">⦁\tIdős kutyák életminőségének javítása</span></p><p><span style=\"font-size: 1.25rem;\">⦁\tOptimális testsúly elérése, megtartása&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">⦁\tStresszoldás</span></p><p><span style=\"font-size: 1.25rem;\">⦁\tSport- és munkakutyák felkészítése&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">⦁ Izomerősítés, nyújtás és állóképesség javítás<br><br><b>A kutyák kezelésén kívül más kisállatok kezelését is vállalom.</b></span></p>",
+          "caption": "<p>⦁\tFájdalomcsillapítás (különböző eredetű sántaság esetén)\n</p><p>⦁\tTervezett műtét előtti felkészítés és műtét utáni rehabilitáció</p><p>⦁\tNeurológiai betegek utókezelése\n</p><p>⦁ Diszpláziára hajlamos kutyák tornáztatása (a tünetek megjelenésének késleltetése)</p><p><span style=\"font-size: 1.25rem;\">⦁\tIdős kutyák életminőségének javítása</span></p><p><span style=\"font-size: 1.25rem;\">⦁\tOptimális testsúly elérése, megtartása&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">⦁\tStresszoldás</span></p><p><span style=\"font-size: 1.25rem;\">⦁\tSport- és munkakutyák felkészítése&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">⦁ Izomerősítés, nyújtás és állóképesség javítás<br></span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -866,7 +866,7 @@
             "showBio": true,
             "count": "1",
             "paddingTop": "4",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -879,7 +879,7 @@
           "header": "Sikertörténetek<br>",
           "items": [
             {
-              "authorName": "Zénó",
+              "authorName": "Bordás Mária, Szentendre",
               "authorBio": "",
               "text": "<i>„Zénó kutyám térdműtéten esett át, keresztszalag szakadása volt a hátsó lábán, ráadásul 5 évvel ezelőtt már a másik lábát is megműtötték. Nagyon aggódtam érte, nehezen gyógyult, és a beteg lábára rá se tudott lépni. Balogh Csilla gyógytornász kezdte el kezelni, és nagyon eredményesen. Már járás közben leteszi a lábát, és szemmel láthatóan javul az állapota. Csilla a szakmai tudása mellett nagyon kedves, érti a kutyák viselkedését, Zénó kutyám is egyből megkedvelte. Csilla iránymutatása alapján itthon is gyakoroljuk a tornát, ami játékos, és nem megerőltető a kutya számára. Ajánlom Csillát mindenkinek, akinek a kutyája műtéten esett át.\"</i>"
             },
@@ -902,11 +902,36 @@
           "_anchor": "testimonials1-v",
           "testimonial": [
             {
-              "authorName": "Zénó",
+              "authorName": "Bordás Mária, Szentendre",
               "authorBio": "",
               "text": "<i>„Zénó kutyám térdműtéten esett át, keresztszalag szakadása volt a hátsó lábán, ráadásul 5 évvel ezelőtt már a másik lábát is megműtötték. Nagyon aggódtam érte, nehezen gyógyult, és a beteg lábára rá se tudott lépni. Balogh Csilla gyógytornász kezdte el kezelni, és nagyon eredményesen. Már járás közben leteszi a lábát, és szemmel láthatóan javul az állapota. Csilla a szakmai tudása mellett nagyon kedves, érti a kutyák viselkedését, Zénó kutyám is egyből megkedvelte. Csilla iránymutatása alapján itthon is gyakoroljuk a tornát, ami játékos, és nem megerőltető a kutya számára. Ajánlom Csillát mindenkinek, akinek a kutyája műtéten esett át.\"</i>"
             }
           ]
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/20160618-234531-1400x1799.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Zénó",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1j"
         },
         {
           "_params": {
@@ -1031,7 +1056,7 @@
           "title": "Porckorongsérv műtét utáni rehabilitáció",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Mindössze egy hónap telt el az első kezelés óta és amint az a kisfilmen is látható, Tyson már vidáman szalad elém, amikor megérkezek hozzá.&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"kutyafizioterapia.html#contacts3-b\" data-toolbar=\"-mbrBtnMove\">Segítek, keress bizalommal</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"kutyafizioterapia.html#contacts3-b\" data-toolbar=\"-mbrBtnMove\">Kapcsolat</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
